@@ -1,0 +1,4 @@
+"Pathway","Selected_genes","Background_genes","pvalue","padj","Enrichment","Description"
+"01110",141,2589,0.0001314,0.0345,1.34,"Biosynthesis of secondary metabolites - Oryza sativa japonica (Japanese rice)"
+"04927",10,62,0.0001816,0.0345,3.97,"KEGG pathway 04927"
+"00500",29,354,0.0002829,0.03584,2.02,"Starch and sucrose metabolism - Oryza sativa japonica (Japanese rice)"
