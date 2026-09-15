@@ -1,0 +1,6 @@
+"GO","Selected_genes","Background_genes","pvalue","padj","Description","Enrichment"
+"GO:1901611",4,5,1.303e-05,0.01928,"phosphatidylglycerol binding",19.71
+"GO:0030247",11,65,5.535e-05,0.03083,"polysaccharide binding",4.17
+"GO:0070300",8,36,7.816e-05,0.03083,"phosphatidic acid binding",5.48
+"GO:0051119",7,28,9.896e-05,0.03083,"sugar transmembrane transporter activity",6.16
+"GO:0001786",6,20,0.0001042,0.03083,"phosphatidylserine binding",7.39

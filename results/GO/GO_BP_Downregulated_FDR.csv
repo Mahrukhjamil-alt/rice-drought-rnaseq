@@ -1,0 +1,13 @@
+"GO","Selected_genes","Background_genes","pvalue","padj","Description","Enrichment"
+"GO:0006979",59,750,9.205e-08,0.0004619,"response to oxidative stress",2.08
+"GO:0050832",88,1368,6.509e-07,0.001633,"defense response to fungus",1.7
+"GO:0009611",52,709,4.309e-06,0.007208,"response to wounding",1.94
+"GO:0009414",83,1349,7.768e-06,0.009745,"response to water deprivation",1.62
+"GO:0009733",68,1078,2.497e-05,0.02103,"response to auxin",1.67
+"GO:0009737",78,1287,2.514e-05,0.02103,"response to abscisic acid",1.6
+"GO:0008645",7,29,8.178e-05,0.04294,"hexose transmembrane transport",6.37
+"GO:0140547",21,218,8.79e-05,0.04294,"acquisition of seed longevity",2.54
+"GO:0006805",17,156,9.068e-05,0.04294,"xenobiotic metabolic process",2.88
+"GO:0010449",31,391,9.327e-05,0.04294,"root meristem growth",2.09
+"GO:0071456",59,938,9.412e-05,0.04294,"cellular response to hypoxia",1.66
+"GO:0009416",56,880,0.0001047,0.04379,"response to light stimulus",1.68

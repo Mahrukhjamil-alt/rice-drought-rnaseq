@@ -1,0 +1,4 @@
+"GO","Selected_genes","Background_genes","pvalue","padj","Description","Enrichment"
+"GO:0005886",220,4383,1.586e-06,0.001245,"plasma membrane",1.33
+"GO:0009986",35,441,3.294e-05,0.01293,"cell surface",2.1
+"GO:0009507",240,5161,0.0001215,0.03178,"chloroplast",1.23
