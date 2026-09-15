@@ -1,0 +1,7 @@
+"Sample","Actual","Predicted","Correct"
+"/mnt/d/rnaseq_data/aligned/SRR36685773_sorted.bam","Water","Water",TRUE
+"/mnt/d/rnaseq_data/aligned/SRR36685782_sorted.bam","Water","Water",TRUE
+"/mnt/d/rnaseq_data/aligned/SRR36685783_sorted.bam","Water","Water",TRUE
+"/mnt/d/rnaseq_data/aligned/SRR36685784_sorted.bam","Drought","Drought",TRUE
+"/mnt/d/rnaseq_data/aligned/SRR36685785_sorted.bam","Drought","Drought",TRUE
+"/mnt/d/rnaseq_data/aligned/SRR36685786_sorted.bam","Drought","Drought",TRUE
