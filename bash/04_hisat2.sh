@@ -39,3 +39,5 @@ hisat2 -p 4 \
 -2 /mnt/d/rnaseq_data/trimmed/SRR36685786_2_trimmed.fastq \
 -S /mnt/d/rnaseq_data/aligned/SRR36685786.sam \
 2> /mnt/d/rnaseq_data/aligned/SRR36685786hisat2.log
+#converting sam into ban
+samtools index /mnt/d/rnaseq_data/aligned/SRR36685773_sorted.bam
