@@ -25,7 +25,7 @@ The main objective was to identify genes and biological processes associated wit
 | GO background                  |                                          19,591 genes |
 | Significant GO terms           |                                                    46 |
 | Significant KEGG pathways      |                                                    28 |
-| STRING/CytoHubba               |                              Top 50 MCC hubs analyzed |
+| STRING/CytoHubba               |                              Top 10 MCC hubs analyzed |
 | Random Forest                  |                       Exploratory gene prioritization |
 | WGCNA                          | Exploratory drought-associated co-expression analysis |
 | Final candidate genes          |                                                    15 |
@@ -357,7 +357,7 @@ STRING protein-protein interaction analysis was performed as an **additional net
 
 CytoHubba was then used with the MCC method to identify highly connected hub proteins.
 
-The top 50 MCC-ranked hubs were examined and mapped to rice gene identifiers where possible.
+The top 10 MCC-ranked hubs were examined and mapped to rice gene identifiers where possible.
 
 Examples of identified hub genes included:
 
